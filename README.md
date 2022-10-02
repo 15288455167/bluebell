@@ -41,8 +41,7 @@
 ## 项目全套笔记
 
 - **视频教程地址**：[GoWeb进阶—两周开发一个基于vue+go+gin+mysql+redis的博客论坛web项目！！！从零到部署上线](https://www.bilibili.com/video/BV1Fb4y14747?spm_id_from=333.999.0.0)
-- **GitHub仓库**：https://github.com/mao888/bluebell
-- **GitEE仓库**：https://gitee.com/hu_maomao/bluebell
+- **GitHub仓库**：https://github.com/15288455167/bluebell
 - 编程：用代码解决生活中的问题
 - **技术与知识的区别**：
 - - 知识：记住地球是圆的
